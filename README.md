@@ -1,2 +1,2 @@
 # eloquent-javascript-solutions
-Solutions to the exercises in Eloquent Javascript
+My solutions to the exercises in Eloquent Javascript by Marijn Haverbeke, 3rd edition.
