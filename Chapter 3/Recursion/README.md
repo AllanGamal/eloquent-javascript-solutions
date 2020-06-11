@@ -5,7 +5,9 @@ number is even or odd by using % 2 to see whether it’s divisible by two. Here�
 another way to define whether a positive whole number is even or odd:
 
 • Zero is even.
+
 • One is odd.
+
 • For any other number N, its evenness is the same as N - 2.
 
 Define a recursive function isEven corresponding to this description. The
